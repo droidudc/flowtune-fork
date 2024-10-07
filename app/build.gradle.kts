@@ -12,7 +12,7 @@ plugins {
 }
 
 android {
-    namespace = "com.dd3boh.outertune"
+    namespace = "com.abhiram76"
     compileSdk = 35
 
     defaultConfig {
@@ -31,7 +31,7 @@ android {
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
         debug {
-            applicationIdSuffix = ".debug"
+            applicationIdSuffix = ".flowtune"
         }
     }
 
