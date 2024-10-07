@@ -36,14 +36,11 @@ A Material 3 based
 ## Screenshots
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/z-huang/InnerTune/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/01.png" width="200" />
+  <img src="https://github.com/droidudc/flowtune-fork/blob/main/files/images/Screenshot_20241007-144431_Flowtune.png" width="200" />
   <img src="https://raw.githubusercontent.com/z-huang/InnerTune/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/02.png" width="200" />
   <img src="https://raw.githubusercontent.com/z-huang/InnerTune/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/03.png" width="200" />
 </p>
-<p float="left">
-  <img src="https://raw.githubusercontent.com/z-huang/InnerTune/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/04.png" width="200" />
-  <img src="https://raw.githubusercontent.com/z-huang/InnerTune/dev/fastlane/metadata/android/en-US/images/phoneScreenshots/05.png" width="200" />
-</p>
+
 
 > **Warning**
 >
