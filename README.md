@@ -43,9 +43,8 @@ A Material 3 based
 </p>
 
 
-> **Warning**
->
->If you're in a region where YouTube Music is not supported, you won't be able to use this app
-***unless*** you have a proxy or VPN to connect to a YTM supported region.
 
-## FAQ
+## Credits
+- Z-huang for innertune
+- droidudc (developer)
+- naruto_s2 (web designer)
